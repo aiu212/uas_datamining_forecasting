@@ -50,5 +50,5 @@ Model **Random Forest Regressor** dipilih sebagai model terbaik karena berhasil 
 
 ## 🔗 Link Terkait
 
-- **Website Portofolio (Google Sites):** (https://sites.google.com/view/uas-datamining-sitiwahyunaj)
-- **Video Presentasi (YouTube):** (https://youtu.be/Cv1SiFCTkfA?si=Rgmng-2z8UNETbLb)
+- **Website Portofolio (Google Sites):** https://sites.google.com/view/uas-datamining-sitiwahyunaj
+- **Video Presentasi (YouTube):** https://youtu.be/Cv1SiFCTkfA?si=Rgmng-2z8UNETbLb
